@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Brais Fàbrega 👋</h1>
+<h1 align="center">Brais Fàbrega </h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ Aunque el código de estos proyectos es privado por acuerdos de confidencialidad
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 💻 Lenguajes
+#### Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -46,25 +46,25 @@ Aunque el código de estos proyectos es privado por acuerdos de confidencialidad
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🎨 Frontend
+#### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-#### ⚙️ Backend & Frameworks
+#### Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### 🗄️ Bases de Datos & ORM
+#### Bases de Datos & ORM
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-#### 🔧 Herramientas & Otros
+#### Herramientas & Otros
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -73,7 +73,7 @@ Aunque el código de estos proyectos es privado por acuerdos de confidencialidad
 
 ### 🎯 Qué puedo aportar
 
-* 📱 **Full-Stack & Mobile:** Creación de aplicaciones Web y Android escalables.
-* 💾 **Gestión de Datos:** Diseño eficiente de BBDD relacionales y no relacionales.
-* ⚡ **Agilidad:** Prototipado rápido (MVPs) y adaptación al cambio.
-* 🤝 **Trabajo en equipo:** Colaboración efectiva usando Git y buenas prácticas.
+ **Full-Stack & Mobile:** Creación de aplicaciones Web y Android escalables.
+ **Gestión de Datos:** Diseño eficiente de BBDD relacionales y no relacionales.
+ **Agilidad:** Prototipado rápido (MVPs) y adaptación al cambio.
+ **Trabajo en equipo:** Colaboración efectiva usando Git y buenas prácticas.
