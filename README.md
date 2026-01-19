@@ -74,6 +74,9 @@ Aunque el código de estos proyectos es privado por acuerdos de confidencialidad
 ### 🎯 Qué puedo aportar
 
  **Full-Stack & Mobile:** Creación de aplicaciones Web y Android escalables.
+ 
  **Gestión de Datos:** Diseño eficiente de BBDD relacionales y no relacionales.
+ 
  **Agilidad:** Prototipado rápido (MVPs) y adaptación al cambio.
+ 
  **Trabajo en equipo:** Colaboración efectiva usando Git y buenas prácticas.
