@@ -10,6 +10,17 @@ Full-Stack Developer con pasión por el aprendizaje continuo y la calidad del c�
 
 ---
 
+### 🚀 Experiencia en proyectos
+
+Aunque el código de estos proyectos es privado por acuerdos de confidencialidad, aquí detallo mi contribución técnica en entornos reales:
+
+| Proyecto / Rol | Descripción y Retos | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **Wonzai**<br>*(HR Intelligence Platform)* | Desarrollo de una aplicación para departamentos de RRHH. <br>• Creación de dashboards interactivos para visualizar **KPIs** generados a partir de encuestas de clima laboral.<br>• Implementación de un **Chatbot** inteligente para asistir en la toma de decisiones y mejora del entorno laboral. | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
+| **TheArtisons**<br>*(Marketplace)* | Plataforma para conectar diseñadores con artesanos profesionales.<br>• Desarrollo de un Marketplace a medida.<br>• **Reto técnico:** Integración híbrida compleja de un core en Laravel/Angular con **WordPress** para cumplir con los requisitos específicos de gestión de contenidos del cliente. | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) |
+
+---
+
 ### 🛠️ Tecnologías principales
 
 - **Lenguajes:** Java · Python · PHP · JavaScript · TypeScript · C# · Kotlin · HTML · CSS
