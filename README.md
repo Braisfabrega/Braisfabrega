@@ -18,7 +18,7 @@
 
 ### ✅ Perfil Profesional
 
-Full-Stack Developer con experiencia en el desarrollo de aplicaciones web y móviles (Android). Me enfoco en entregar soluciones mantenibles, trabajar con metodologías ágiles y asumir responsabilidades técnicas para convertir ideas en productos funcionales.
+Full-Stack Developer con experiencia en el desarrollo de aplicaciones web y móviles. Me enfoco en entregar soluciones mantenibles, trabajar con metodologías ágiles y asumir responsabilidades técnicas para convertir ideas en productos funcionales.
 
 ---
 
@@ -73,7 +73,7 @@ Aunque el código de estos proyectos es privado por acuerdos de confidencialidad
 
 ### 🎯 Qué puedo aportar
 
- **Full-Stack & Mobile:** Creación de aplicaciones Web y Android escalables.
+ **Full-Stack & Mobile:** Creación de aplicaciones Web y aplicaciones Móviles escalables.
  
  **Gestión de Datos:** Diseño eficiente de BBDD relacionales y no relacionales.
  
