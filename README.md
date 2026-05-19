@@ -22,12 +22,13 @@ Full-Stack Developer con experiencia en el desarrollo de aplicaciones web y móv
 
 ---
 
-### 🚀 Experiencia Destacada
+### 🚀 Experiencia y Proyectos Destacados
 
-Aunque el código de estos proyectos es privado por acuerdos de confidencialidad, aquí detallo mi contribución técnica en entornos reales:
+A continuación, detallo mi contribución técnica tanto en entornos profesionales (código privado por acuerdos de confidencialidad) como en proyectos de código abierto:
 
 | Proyecto / Rol | Descripción y Retos | Stack Tecnológico |
 | :--- | :--- | :--- |
+| [**AI-Student-Placement-API**](https://github.com/Braisfabrega/AI-Student-Placement-API)<br>*(Open Source)* | API para la predicción de empleabilidad de estudiantes.<br>• **Reto técnico:** Versionado de artefactos, **Dockerización** y automatización de validaciones **CI/CD** para acortar la brecha entre el desarrollo del modelo de IA y su despliegue en producción. | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 | **Wonzai**<br>*(HR Intelligence Platform)* | App para RRHH con **Dashboards de KPIs** de clima laboral.<br>• Integración de la **API de OpenAI** para crear un **Chatbot inteligente** que analiza datos y sugiere mejoras organizativas. | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) |
 | **TheArtisons**<br>*(Marketplace)* | Plataforma de conexión entre diseñadores y artesanos.<br>• **Reto técnico:** Integración híbrida compleja de un core en Laravel/Angular con **WordPress** para gestión de contenidos. | ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) |
 
